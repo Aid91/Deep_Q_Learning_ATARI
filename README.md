@@ -14,7 +14,7 @@ The implementation contatins of:
 - Python 2.7 or Python 3.3+
 - [gym](https://github.com/openai/gym)
 - [OpenCV2](http://opencv.org/)
-- [TensorFlow 0.11.0](https://github.com/tensorflow/tensorflow/tree/r0.11
+- [TensorFlow 0.11.0](https://github.com/tensorflow/tensorflow/tree/r0.11)
 
 
 ## Usage
