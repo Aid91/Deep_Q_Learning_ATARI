@@ -1,8 +1,8 @@
-# Deep-Q Learning algoritm implementation using Tensorflow library
+# Deep-Q Learning algorithm implementation using TensorFlow library
 
-This project represents the implementation of the popular reinforecement learning algorithm Deep-Q Learning introduced by Google Deep Mind. The reference to the paper is given on the following link:[Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf)
+This project represents the implementation of the popular reinforcement learning algorithm called Deep-Q Learning introduced by Google Deep Mind. The reference to the paper is given on the following link:[Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf)
  
-The implementation contatins of:
+The implementation consists of:
 
 1. Deep Q-Learning 
 2. Using experience replay memory 
