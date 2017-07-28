@@ -36,9 +36,9 @@ To train and test a model for Breakout:
 
 ** [1] Accumulated reward, Q values and average error values obtained for CartPole environment: **
 
-![acc_reward_cartpole](assets/acc_reward_cartpole)
-![Q_cartpole](assets/Q_cartpole)
-![error_cartpole](assets/error_cartpole)
+![acc_reward_cartpole](assets/acc_reward_cartpole.png)
+![Q_cartpole](assets/Q_cartpole.png)
+![error_cartpole](assets/error_cartpole.png)
 
 ** [2] Accumulated reward, Q values and average error values obtained for Pong environment: **
 
