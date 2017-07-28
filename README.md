@@ -34,24 +34,24 @@ To train and test a model for Breakout:
 
 ## Detailed results
 
-** [1] Accumulated reward, Q values and average error values obtained for CartPole environment: **
+**[1] Accumulated reward, Q values and average error values obtained for CartPole environment:**
 
 ![acc_reward_cartpole](assets/acc_reward_cartpole.png)
 ![Q_cartpole](assets/Q_cartpole.png)
 ![error_cartpole](assets/error_cartpole.png)
 
-** [2] Accumulated reward, Q values and average error values obtained for Pong environment: **
+**[2] Accumulated reward, Q values and average error values obtained for Pong environment:**
 
-![acc_reward_pong](assets/acc_reward_pong)
-![Q_pong_cnn](assets/Q_pong_cnn)
-![error_pong](assets/error_pong)
+![acc_reward_pong](assets/acc_reward_pong.png)
+![Q_pong_cnn](assets/Q_pong_cnn.png)
+![error_pong](assets/error_pong.png)
 
 
-** [3] Accumulated reward, Q values and average error values obtained for Breakout environment: **
+**[3] Accumulated reward, Q values and average error values obtained for Breakout environment:**
 
-![acc_reward_breakout](assets/acc_reward_breakout)
-![Q_breakout](assets/Q_breakout)
-![error_breakout](assets/error_breakout)
+![acc_reward_breakout](assets/acc_reward_breakout.png)
+![Q_breakout](assets/Q_breakout.png)
+![error_breakout](assets/error_breakout.png)
 
 ## License
 
