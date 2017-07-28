@@ -1,6 +1,6 @@
 # Deep-Q Learning algorithm implementation using TensorFlow library
 
-This project represents the implementation of the popular reinforcement learning algorithm called Deep-Q Learning introduced by Google Deep Mind. The reference to the paper is given on the following link:[Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf)
+This project represents the implementation of the popular reinforcement learning algorithm called Deep-Q Learning introduced by Google Deep Mind. The reference to the paper is given on the following link:[Human-Level Control through Deep Reinforcement Learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
  
 The implementation consists of:
 
@@ -19,8 +19,39 @@ The implementation consists of:
 
 ## Usage
 
+To train and test a model for CartPole:
 
-## Results
+     $ python cartpole_dqn.py
+
+To train and test a model for Pong:
+
+    $ python pong_dqn_conv.py
+
+To train and test a model for Breakout:
+
+    $ python breakout_dqn_conv.py
+
+
+## Detailed results
+
+** [1] Accumulated reward, Q values and average error values obtained for CartPole environment: **
+
+![acc_reward_cartpole](assets/acc_reward_cartpole.png)
+![Q_cartpole](assets/Q_cartpole.png)
+![error_cartpole](assets/error_cartpole.png)
+
+** [2] Accumulated reward, Q values and average error values obtained for Pong environment: **
+
+![acc_reward_pong](assets/acc_reward_pong.png)
+![Q_pong_cnn](assets/Q_pong_cnn.png)
+![error_pong](assets/error_pong.png)
+
+
+** [3] Accumulated reward, Q values and average error values obtained for Breakout environment: **
+
+![acc_reward_breakout](assets/acc_reward_breakout.png)
+![Q_breakout](assets/Q_breakout.png)
+![error_breakout](assets/error_breakout.png)
 
 ## License
 

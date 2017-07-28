@@ -5,7 +5,6 @@ import numpy.random as rd
 import gym
 import cv2
 
-
 import matplotlib.pyplot as plt
 from tf_tools import variable_summaries
 from replay_memory import *

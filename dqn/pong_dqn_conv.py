@@ -7,7 +7,6 @@ import gym
 import cv2
 
 import matplotlib.pyplot as plt
-from pong_tools import prepro
 from tf_tools import variable_summaries
 from replay_memory import *
 
